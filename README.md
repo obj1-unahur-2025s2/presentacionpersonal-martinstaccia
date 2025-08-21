@@ -4,7 +4,7 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Hola, mi nomre es Martin Staccia. Tengo 24 años. Este es mi tercer cuatrimestre en esta carrera.
+- Hola, mi nombre es Martin Staccia. Tengo 24 años. Este es mi tercer cuatrimestre en esta carrera.
 - Yo ya estuve en otra facultad (Universad de Moron, UM) Y estuve en esa por 3 años. Me cambié a la Universidad de Hurlingham porque me queda más cerca y por un problema con una materia que se me hizo demasiado dificil.
 - Tengo un conocimiento muy alto de ingles, por no decir perfecto. 
 - Tengo conocimiento de programación porque estuve en otra facultad en la cual también estudie sistemas y estuve en una secundaria técnica en la cual también tuve programación.
